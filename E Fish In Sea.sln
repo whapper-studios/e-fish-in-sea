@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E Fish In Sea", "E Fish In Sea.csproj", "{8680F67E-1B33-4CD5-8080-CD9E90D4041E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8680F67E-1B33-4CD5-8080-CD9E90D4041E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8680F67E-1B33-4CD5-8080-CD9E90D4041E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8680F67E-1B33-4CD5-8080-CD9E90D4041E}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{8680F67E-1B33-4CD5-8080-CD9E90D4041E}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{8680F67E-1B33-4CD5-8080-CD9E90D4041E}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{8680F67E-1B33-4CD5-8080-CD9E90D4041E}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
